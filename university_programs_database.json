@@ -1,0 +1,650 @@
+{
+  "programs": [
+    {
+      "university": "www.bu.edu",
+      "name": "Introduction to Internet Technologies and Web Programming",
+      "description": "This course introduces students to the basic architecture and protocols underlying the operation of the Internet with an emphasis on web design, web application programming, and algorithmic thinking. Students will gain a general familiarity with the Internet and learn how to create web applications.",
+      "eligibility": "Open to students with basic computer skills, no specific age requirement",
+      "duration": "4 credits, Summer 1 (May 20-June 27)",
+      "pricing": "$3260",
+      "link": "https://www.bu.edu/summer/courses/computer-science/",
+      "source_url": "https://www.bu.edu/summer/courses/computer-science/",
+      "added_at": "2025-08-13T04:47:18.104251",
+      "id": "www.bu.edu_Introduction to Internet Technologies and Web Programming_0"
+    },
+    {
+      "university": "www.bu.edu",
+      "name": "Introduction to Computer Science 1",
+      "description": "A rigorous introduction to programming for students intending to major or minor in Computer Science, Data Science, and related disciplines. Students will learn numeric, string, and list data, functions, recursion, iteration, and object-orientation through hands-on problem-solving and interactive examples.",
+      "eligibility": "Open to students with basic computer skills, no specific age requirement",
+      "duration": "4 credits, Summer 1 (May 13-June 27) and Summer 2 (June 30-August 15)",
+      "pricing": "$3260",
+      "link": "https://www.bu.edu/summer/courses/computer-science/",
+      "source_url": "https://www.bu.edu/summer/courses/computer-science/",
+      "added_at": "2025-08-13T04:47:18.104251",
+      "id": "www.bu.edu_Introduction to Computer Science 1_1"
+    },
+    {
+      "university": "www.bu.edu",
+      "name": "Introduction to Computer Science 2",
+      "description": "This course covers advanced programming techniques and data structures, including recursion, algorithm analysis, linked lists, stacks, queues, trees, graphs, tables, searching, and sorting. Students will deepen their programming skills and understanding of data structures.",
+      "eligibility": "Prerequisite: Introduction to Computer Science 1 or equivalent experience",
+      "duration": "4 credits, Summer 1 (May 20-June 27)",
+      "pricing": "$3260",
+      "link": "https://www.bu.edu/summer/courses/computer-science/",
+      "source_url": "https://www.bu.edu/summer/courses/computer-science/",
+      "added_at": "2025-08-13T04:47:18.104251",
+      "id": "www.bu.edu_Introduction to Computer Science 2_2"
+    },
+    {
+      "university": "www.bu.edu",
+      "name": "Combinatoric Structures",
+      "description": "This course focuses on the representation, analysis, techniques, and principles for manipulation of basic combinatoric structures used in computer science. Students will develop rigorous reasoning skills and apply combinatorial concepts to problem-solving.",
+      "eligibility": "Prerequisite: Basic understanding of computer science concepts",
+      "duration": "4 credits, Summer 1 (May 13-June 27) and Summer 2 (June 30-August 15)",
+      "pricing": "$3260",
+      "link": "https://www.bu.edu/summer/courses/computer-science/",
+      "source_url": "https://www.bu.edu/summer/courses/computer-science/",
+      "added_at": "2025-08-13T04:47:18.104251",
+      "id": "www.bu.edu_Combinatoric Structures_3"
+    },
+    {
+      "university": "www.bu.edu",
+      "name": "Probability in Computing",
+      "description": "This course introduces basic probabilistic concepts and methods used in computer science, emphasizing the role of randomness in computing. Students will learn how to apply probabilistic thinking to algorithm design and analysis.",
+      "eligibility": "Prerequisite: Combinatoric Structures or equivalent background",
+      "duration": "4 credits, Summer 1 (May 20-June 27)",
+      "pricing": "$3260",
+      "link": "https://www.bu.edu/summer/courses/computer-science/",
+      "source_url": "https://www.bu.edu/summer/courses/computer-science/",
+      "added_at": "2025-08-13T04:47:18.104251",
+      "id": "www.bu.edu_Probability in Computing_4"
+    },
+    {
+      "university": "www.cmu.edu",
+      "name": "AI Scholars",
+      "description": "AI Scholars program offers a deep dive into artificial intelligence through classroom instruction, research projects, and industry engagement. Students learn about computing, artificial intelligence, and participate in hands-on group projects.",
+      "eligibility": "Rising high school seniors, 16 years old by June 21, 2025, in 11th or 12th grade",
+      "duration": "4 weeks, Jun. 21 to Jul. 19, 2025",
+      "pricing": "Fully funded, including tuition, housing, meal plans, and program-related field trips",
+      "link": "https://www.cmu.edu/pre-college/academic-programs/ai_scholars.html",
+      "source_url": "https://www.cmu.edu/pre-college/academic-programs/ai_scholars.html",
+      "added_at": "2025-08-13T04:47:50.743933",
+      "id": "www.cmu.edu_AI Scholars_5"
+    },
+    {
+      "university": "summer.champlain.edu",
+      "name": "Cybersecurity & Digital Forensics Academy",
+      "description": "Students learn practical skills in cybersecurity, defending against cyberattacks, investigating digital crimes, and presenting findings in small teams. They also gain insights into the industry and career paths available.",
+      "eligibility": "Students entering grades 10–12 and recent high school graduates (ages 15-18)",
+      "duration": "Monday, July 7 – Friday, July 18, 2025",
+      "pricing": "$4,500.00",
+      "link": "https://summer.champlain.edu/programs/cybersecurity-digital-forensics/",
+      "source_url": "https://summer.champlain.edu/programs/cybersecurity-digital-forensics/",
+      "added_at": "2025-08-13T04:48:16.072712",
+      "id": "summer.champlain.edu_Cybersecurity & Digital Forensics Academy_6"
+    },
+    {
+      "university": "summer.georgetown.edu",
+      "name": "Artificial Intelligence Academy",
+      "description": "Explore the science of AI, ethics of AI-enabled automation, and global governance frameworks. Learn to define AI from a socio-technical perspective, summarize current scientific innovations, and propose design solutions in the AI domain.",
+      "eligibility": "High school students",
+      "duration": "July 2025 - August 2025",
+      "pricing": "$3,525 including tuition, housing, and meals. Commuter Student tuition is $2,730.",
+      "link": "https://summer.georgetown.edu/programs/SHS31/artificial-intelligence-academy/",
+      "source_url": "https://summer.georgetown.edu/programs/SHS31/artificial-intelligence-academy/",
+      "added_at": "2025-08-13T04:53:07.889590",
+      "id": "summer.georgetown.edu_Artificial Intelligence Academy_7"
+    },
+    {
+      "university": "summer.harvard.edu",
+      "name": "Computer Science and Programming",
+      "description": "Explore the fundamentals of computer science, programming languages, algorithms, and software development. Gain hands-on experience in coding, problem-solving, and building applications.",
+      "eligibility": "High school students ages 16-18 with a strong interest in computer science",
+      "duration": "4 or 7 weeks, June-August 2025",
+      "pricing": "Cost varies based on program format",
+      "link": "https://summer.harvard.edu/high-school-programs/secondary-school-program/",
+      "source_url": "https://summer.harvard.edu/high-school-programs/secondary-school-program/",
+      "added_at": "2025-08-13T04:53:20.848046",
+      "id": "summer.harvard.edu_Computer Science and Programming_8"
+    },
+    {
+      "university": "cty.jhu.edu",
+      "name": "Introduction to Robotics",
+      "description": "This program is perfect for students who want to learn introductory-level programming and apply what they've learned through real-life engineering projects. Students will test their coding and design skills by having their robot complete obstacle courses and other challenges.",
+      "eligibility": "Students with basic proficiency in programming",
+      "duration": "Varies",
+      "pricing": "Free",
+      "link": "https://cty.jhu.edu/programs/on-campus/topics/computer-science-and-technology",
+      "source_url": "https://cty.jhu.edu/programs/on-campus/topics/computer-science-and-technology",
+      "added_at": "2025-08-13T04:54:27.116862",
+      "id": "cty.jhu.edu_Introduction to Robotics_9"
+    },
+    {
+      "university": "cty.jhu.edu",
+      "name": "Data Structures and Algorithms",
+      "description": "Designed for students with some proficiency at programming, this program dives deep into how computers organize and store data. Students will learn to design and utilize algorithms with peak efficiency.",
+      "eligibility": "Students with basic proficiency in programming",
+      "duration": "Varies",
+      "pricing": "Free",
+      "link": "https://cty.jhu.edu/programs/on-campus/topics/computer-science-and-technology",
+      "source_url": "https://cty.jhu.edu/programs/on-campus/topics/computer-science-and-technology",
+      "added_at": "2025-08-13T04:54:27.116862",
+      "id": "cty.jhu.edu_Data Structures and Algorithms_10"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "Computer Science Summer Program",
+      "description": "Intensive program covering fundamental concepts in computer science including algorithms, data structures, and programming languages",
+      "eligibility": "High school students interested in computer science",
+      "duration": "2 weeks, July 2024",
+      "pricing": "Free",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:54:46.033966",
+      "id": "k12stem.engineering.nyu.edu_Computer Science Summer Program_11"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "Software Engineering Bootcamp",
+      "description": "Hands-on bootcamp focusing on software development principles, agile methodologies, and project management",
+      "eligibility": "College students pursuing a degree in computer science or related field",
+      "duration": "4 weeks, August 2024",
+      "pricing": "Cost of enrollment not specified",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:54:46.033966",
+      "id": "k12stem.engineering.nyu.edu_Software Engineering Bootcamp_12"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "Data Science Summer Institute",
+      "description": "Comprehensive program covering data analysis, machine learning, and data visualization techniques using Python and R",
+      "eligibility": "Graduate students or professionals with a background in statistics or programming",
+      "duration": "3 weeks, June 2024",
+      "pricing": "Cost of enrollment not specified",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:54:46.033966",
+      "id": "k12stem.engineering.nyu.edu_Data Science Summer Institute_13"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "AI and Machine Learning Workshop",
+      "description": "Hands-on workshop exploring artificial intelligence, neural networks, and deep learning algorithms",
+      "eligibility": "Undergraduate students with a strong foundation in mathematics and programming",
+      "duration": "1 week, August 2024",
+      "pricing": "Free",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:54:46.033966",
+      "id": "k12stem.engineering.nyu.edu_AI and Machine Learning Workshop_14"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "Web Development Bootcamp",
+      "description": "Intensive bootcamp covering front-end and back-end web development technologies such as HTML, CSS, JavaScript, Node.js, and React",
+      "eligibility": "High school or college students interested in web development",
+      "duration": "4 weeks, July 2024",
+      "pricing": "Cost of enrollment not specified",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:54:46.033966",
+      "id": "k12stem.engineering.nyu.edu_Web Development Bootcamp_15"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "Game Development Summer Program",
+      "description": "Interactive program teaching game design, development, and programming using popular game engines like Unity and Unreal Engine",
+      "eligibility": "High school students with an interest in game development",
+      "duration": "3 weeks, August 2024",
+      "pricing": "Free",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:54:46.033966",
+      "id": "k12stem.engineering.nyu.edu_Game Development Summer Program_16"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "Computer Science for Cyber Security",
+      "description": "Students will learn the fundamentals of computer science with a focus on cyber security, including cryptography, network security, and ethical hacking techniques.",
+      "eligibility": "High school students ages 15-18 with basic programming knowledge",
+      "duration": "2 weeks, July 2024",
+      "pricing": "Free",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:55:39.658550",
+      "id": "k12stem.engineering.nyu.edu_Computer Science for Cyber Security_17"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "Programming with Python Bootcamp",
+      "description": "Intensive bootcamp covering Python programming language, data structures, algorithms, and web development using Django framework.",
+      "eligibility": "College students and professionals with some programming experience",
+      "duration": "4 weeks, August 2024",
+      "pricing": "Tuition fee required",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:55:39.658550",
+      "id": "k12stem.engineering.nyu.edu_Programming with Python Bootcamp_18"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "Data Science and Machine Learning Workshop",
+      "description": "Hands-on workshop on data science concepts, machine learning algorithms, and practical applications in real-world scenarios.",
+      "eligibility": "Graduate students and industry professionals in data analytics field",
+      "duration": "1 week, June 2024",
+      "pricing": "Free",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:55:39.658550",
+      "id": "k12stem.engineering.nyu.edu_Data Science and Machine Learning Workshop_19"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "Web Development Bootcamp",
+      "description": "Intensive bootcamp covering front-end and back-end web development technologies, including HTML, CSS, JavaScript, Node.js, and React.",
+      "eligibility": "High school students ages 16-18 with basic programming knowledge",
+      "duration": "3 weeks, July 2024",
+      "pricing": "Tuition fee required",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:55:39.658550",
+      "id": "k12stem.engineering.nyu.edu_Web Development Bootcamp_20"
+    },
+    {
+      "university": "k12stem.engineering.nyu.edu",
+      "name": "Game Development Workshop",
+      "description": "Introduction to game development using Unity game engine, covering game design principles, 2D/3D graphics, and game mechanics.",
+      "eligibility": "High school students ages 15-18 with interest in game design and programming",
+      "duration": "1 week, August 2024",
+      "pricing": "Free",
+      "link": "https://k12stem.engineering.nyu.edu/programs",
+      "source_url": "https://k12stem.engineering.nyu.edu/programs",
+      "added_at": "2025-08-13T04:55:39.658550",
+      "id": "k12stem.engineering.nyu.edu_Game Development Workshop_21"
+    },
+    {
+      "university": "summerinstitutes.spcs.stanford.edu",
+      "name": "Artificial Intelligence",
+      "description": "Students will gain an understanding of artificial intelligence (AI) and learn supervised learning, unsupervised learning, and reinforcement learning algorithms. They will analyze algorithm strengths and weaknesses, mitigate bias, and apply mathematical concepts in Python programming with real-world datasets.",
+      "eligibility": "Grade 10-11 students",
+      "duration": "Session One: June 16, 2025 - June 27, 2025 | Session Two: July 07, 2025 - July 18, 2025",
+      "pricing": "Not specified",
+      "link": "https://summerinstitutes.spcs.stanford.edu/courses/2025/artificial-intelligence",
+      "source_url": "https://summerinstitutes.spcs.stanford.edu/courses/2025/artificial-intelligence",
+      "added_at": "2025-08-13T04:56:32.143111",
+      "id": "summerinstitutes.spcs.stanford.edu_Artificial Intelligence_22"
+    },
+    {
+      "university": "cse.umn.edu",
+      "name": "Summer Computer Academy",
+      "description": "This week-long day camp teaches the foundations of computer programming using Python. It includes lectures on fundamental programming concepts and the Python programming language, along with hands-on experience in a computer lab.",
+      "eligibility": "Female students in grades 6-12, with or without previous programming experience",
+      "duration": "1 week",
+      "pricing": "Free",
+      "link": "https://cse.umn.edu/cs/summer-programs",
+      "source_url": "https://cse.umn.edu/cs/summer-programs",
+      "added_at": "2025-08-13T04:57:15.954853",
+      "id": "cse.umn.edu_Summer Computer Academy_23"
+    },
+    {
+      "university": "cse.umn.edu",
+      "name": "Technology Day Camp",
+      "description": "A three-day summer camp providing an introduction to engineering and computer science through presentations and hands-on activities in a university environment. Offered free of charge for students in grades 6-8.",
+      "eligibility": "Students in grades 6-8",
+      "duration": "3 days",
+      "pricing": "Free",
+      "link": "https://cse.umn.edu/cs/summer-programs",
+      "source_url": "https://cse.umn.edu/cs/summer-programs",
+      "added_at": "2025-08-13T04:57:15.954853",
+      "id": "cse.umn.edu_Technology Day Camp_24"
+    },
+    {
+      "university": "academics.seas.upenn.edu",
+      "name": "Engineering Summer Academy at Penn (ESAP)",
+      "description": "Highly motivated high school students can experience rigorous college-level coursework in computer science, robotics, and engineering complex networks. The program combines theory with hands-on practical experience in cutting-edge technologies.",
+      "eligibility": "High school students",
+      "duration": "Three weeks",
+      "pricing": "Cost not specified",
+      "link": "https://academics.seas.upenn.edu/k-12-programs/",
+      "source_url": "https://academics.seas.upenn.edu/k-12-programs/",
+      "added_at": "2025-08-13T04:57:42.780305",
+      "id": "academics.seas.upenn.edu_Engineering Summer Academy at Penn (ESAP)_25"
+    },
+    {
+      "university": "www.sandiego.edu",
+      "name": "Cyber Security Youth Pathway",
+      "description": "The Cyber Security Youth Pathway program introduces students to the fundamentals of cybersecurity, including network security, cryptography, and ethical hacking techniques.",
+      "eligibility": "High school students ages 14-18 with an interest in computer science and cybersecurity",
+      "duration": "2 weeks, July 12-23, 2024",
+      "pricing": "Free",
+      "link": "https://www.sandiego.edu/engineering/centers/ccset/youth-programs.php",
+      "source_url": "https://www.sandiego.edu/engineering/centers/ccset/youth-programs.php",
+      "added_at": "2025-08-13T04:57:57.823815",
+      "id": "www.sandiego.edu_Cyber Security Youth Pathway_26"
+    },
+    {
+      "university": "www.ut.edu",
+      "name": "CyberSpartans Summer Camp",
+      "description": "Intensive online program providing a foundation in cybersecurity, covering topics such as Linux, computer networking, web security, encryption, and passwords. Campers also learn about cyber competitions, ethics, and careers in cybersecurity.",
+      "eligibility": "High school students interested in cybersecurity, no background needed",
+      "duration": "5 days, July 7-11, 2025",
+      "pricing": "Free",
+      "link": "https://www.ut.edu/academics/sykes-college-of-business/information-and-technology-management-itm-degrees/cyberspartans-summer-camp",
+      "source_url": "https://www.ut.edu/academics/sykes-college-of-business/information-and-technology-management-itm-degrees/cyberspartans-summer-camp",
+      "added_at": "2025-08-13T04:58:17.201780",
+      "id": "www.ut.edu_CyberSpartans Summer Camp_27"
+    },
+    {
+      "university": "www.vanderbilt.edu",
+      "name": "AI Summer Training - DSIDSI",
+      "description": "Participants will engage in interactive live Zoom sessions, hands-on development projects focusing on reasoning agents, and guided learning materials including tutorials and code examples.",
+      "eligibility": "Researchers, educators, students, and enthusiasts interested in AI and machine learning",
+      "duration": "4 weeks, May 5–30, 2025",
+      "pricing": "Free",
+      "link": "https://www.vanderbilt.edu/datascience/ai-summer/",
+      "source_url": "https://www.vanderbilt.edu/datascience/ai-summer/",
+      "added_at": "2025-08-13T05:00:07.452223",
+      "id": "www.vanderbilt.edu_AI Summer Training - DSIDSI_28"
+    },
+    {
+      "university": "www.vanderbilt.edu",
+      "name": "AI Summer Training",
+      "description": "Participants will engage in interactive live Zoom sessions, hands-on development projects focusing on reasoning agents, guided learning materials, and curated resources. They will learn how to build reasoning agents and explore the latest developments in AI tooling.",
+      "eligibility": "Researchers, educators, students, and enthusiasts interested in AI and machine learning",
+      "duration": "4 weeks, May 5–30, 2025",
+      "pricing": "Free",
+      "link": "https://www.vanderbilt.edu/datascience/ai-summer/",
+      "source_url": "https://www.vanderbilt.edu/datascience/ai-summer/",
+      "added_at": "2025-08-13T05:00:48.994282",
+      "id": "www.vanderbilt.edu_AI Summer Training_29"
+    },
+    {
+      "university": "www.pace.cam.ac.uk",
+      "name": "Computer Science and Programming",
+      "description": "This program covers fundamental concepts in computer science, programming languages, algorithms, and data structures. Students will learn to design and implement software solutions to real-world problems.",
+      "eligibility": "Undergraduate students with a background in computer science or related field",
+      "duration": "4 weeks, July-August",
+      "pricing": "Cost of enrolling on this summer school program",
+      "link": "https://www.pace.cam.ac.uk/course-type/international-summer-programme",
+      "source_url": "https://www.pace.cam.ac.uk/course-type/international-summer-programme",
+      "added_at": "2025-08-13T05:02:06.258246",
+      "id": "www.pace.cam.ac.uk_Computer Science and Programming_30"
+    },
+    {
+      "university": "www.imperial.ac.uk",
+      "name": "Data Science and AI Summer School",
+      "description": "This program covers topics in data science, artificial intelligence, machine learning, and their applications in various industries. Students will learn data analysis, predictive modeling, and how to implement AI algorithms.",
+      "eligibility": "Undergraduate students in their second year or above",
+      "duration": "Varies by cohort, applications closed",
+      "pricing": "Not specified",
+      "link": "https://www.imperial.ac.uk/continuing-professional-development/short-courses/summer-schools/summerschool/",
+      "source_url": "https://www.imperial.ac.uk/continuing-professional-development/short-courses/summer-schools/summerschool/",
+      "added_at": "2025-08-13T05:05:20.078727",
+      "id": "www.imperial.ac.uk_Data Science and AI Summer School_31"
+    },
+    {
+      "university": "www.ucl.ac.uk",
+      "name": "UCL Computer Science Summer School",
+      "description": "Students learn about medical imaging computing, artificial intelligence, cybersecurity, virtual reality, robotics, and more. The program focuses on developing technical skills, critical thinking, problem-solving, and teamwork abilities.",
+      "eligibility": "Students enrolled in the ACOMPS programme and In2Stem participants",
+      "duration": "Annual summer program",
+      "pricing": "Free",
+      "link": "https://www.ucl.ac.uk/engineering/computer-science/collaborate/schools-outreach/ucl-computer-science-summer-school",
+      "source_url": "https://www.ucl.ac.uk/engineering/computer-science/collaborate/schools-outreach/ucl-computer-science-summer-school",
+      "added_at": "2025-08-13T05:06:54.135599",
+      "id": "www.ucl.ac.uk_UCL Computer Science Summer School_32"
+    },
+    {
+      "university": "bse.eu",
+      "name": "Data Science Summer School",
+      "description": "Explore cutting-edge machine learning tools with courses on key data analysis methods, NLP, and statistical machine learning for large data.",
+      "eligibility": "Graduate students, professionals, consultants, researchers, and academics interested in machine learning and data science",
+      "duration": "Various courses offered from June to July 2025",
+      "pricing": "€350 - €1,450",
+      "link": "https://bse.eu/summer-school/data-science",
+      "source_url": "https://bse.eu/summer-school/data-science",
+      "added_at": "2025-08-13T05:52:02.242924",
+      "id": "bse.eu_Data Science Summer School_33"
+    },
+    {
+      "university": "www.hec.edu",
+      "name": "Data Science and AI Summer Program",
+      "description": "This program equips participants with essential Data Science and AI concepts relevant to business, preparing them to contribute to data-driven transformations and collaborate effectively with Data Scientists, Data Analysts, and Data Engineers.",
+      "eligibility": "Students of all backgrounds with an interest in Data Science and AI",
+      "duration": "June 16 - 27, Summer 2025",
+      "pricing": "Cost not specified",
+      "link": "https://www.hec.edu/en/summer-school/summer-programs/data-science-and-ai",
+      "source_url": "https://www.hec.edu/en/summer-school/summer-programs/data-science-and-ai",
+      "added_at": "2025-08-13T17:49:27.939084",
+      "id": "www.hec.edu_Data Science and AI Summer Program_34"
+    },
+    {
+      "university": "www.unibe.ch",
+      "name": "Machine Learning Deep Learning",
+      "description": "Intensive program covering deep learning techniques and applications in various fields such as computer vision, natural language processing, and reinforcement learning.",
+      "eligibility": "Open to Bachelor, Master, PhD, and Postdoc students with a background in computer science or related fields.",
+      "duration": "5 days, 24 - 28 February 2025",
+      "pricing": "Free",
+      "link": "https://www.unibe.ch/studies/programs/summer___winter_schools/index_eng.html",
+      "source_url": "https://www.unibe.ch/studies/programs/summer___winter_schools/index_eng.html",
+      "added_at": "2025-08-13T17:59:53.300146",
+      "id": "www.unibe.ch_Machine Learning Deep Learning_35"
+    },
+    {
+      "university": "www.unibe.ch",
+      "name": "Machine Learning Reinforcement Learning",
+      "description": "Focused program on reinforcement learning algorithms and their applications in autonomous systems, robotics, and game playing.",
+      "eligibility": "Open to Bachelor, Master, PhD, and Postdoc students with prior knowledge of machine learning concepts.",
+      "duration": "5 days, 17 - 21 March 2025 (CANCELLED)",
+      "pricing": "Free",
+      "link": "https://www.unibe.ch/studies/programs/summer___winter_schools/index_eng.html",
+      "source_url": "https://www.unibe.ch/studies/programs/summer___winter_schools/index_eng.html",
+      "added_at": "2025-08-13T17:59:53.300146",
+      "id": "www.unibe.ch_Machine Learning Reinforcement Learning_36"
+    },
+    {
+      "university": "www.unibe.ch",
+      "name": "Machine Learning AI Natural Language Processing",
+      "description": "Comprehensive program focusing on natural language processing techniques, sentiment analysis, and chatbot development using AI algorithms.",
+      "eligibility": "Open to Bachelor, Master, PhD, and Postdoc students interested in AI and language processing.",
+      "duration": "5 days, 24 - 28 March 2025 (CANCELLED)",
+      "pricing": "Free",
+      "link": "https://www.unibe.ch/studies/programs/summer___winter_schools/index_eng.html",
+      "source_url": "https://www.unibe.ch/studies/programs/summer___winter_schools/index_eng.html",
+      "added_at": "2025-08-13T17:59:53.300146",
+      "id": "www.unibe.ch_Machine Learning AI Natural Language Processing_37"
+    },
+    {
+      "university": "isc.bit.edu.cn",
+      "name": "Hands-on Learning for Emerging Technologies in Electronics Engineering",
+      "description": "This program is specifically designed for students with an engineering background and covers cutting-edge areas such as Artificial Intelligence of Things, Wireless Communications & Microwave, Smart Vehicles, along with Chinese language and culture practices.",
+      "eligibility": "Non-Chinese citizens with English proficiency (IELTS≥ 6.0 or TOEFL≥ 85 or equivalent)",
+      "duration": "4 weeks, July 6 - August 2, 2025",
+      "pricing": "CNY 8000",
+      "link": "https://isc.bit.edu.cn/admissionsaid/spss/languageulture/index.htm",
+      "source_url": "https://isc.bit.edu.cn/admissionsaid/spss/languageulture/index.htm",
+      "added_at": "2025-08-13T20:43:23.358904",
+      "id": "isc.bit.edu.cn_Hands-on Learning for Emerging Technologies in Electronics Engineering_38"
+    },
+    {
+      "university": "isc.bit.edu.cn",
+      "name": "Frontiers of Materials Science for Renewable Energy",
+      "description": "Students will explore materials science within the field of renewable energy through lectures and laboratory practices covering topics such as Proton Exchange Membrane Fuel Cells, Lithium-Ion Batteries, and Photovoltaic Devices.",
+      "eligibility": "Non-Chinese citizens with English proficiency (IELTS≥ 6.0 or TOEFL≥ 85 or equivalent)",
+      "duration": "4 weeks, July 6 - August 2, 2025",
+      "pricing": "CNY 8000",
+      "link": "https://isc.bit.edu.cn/admissionsaid/spss/languageulture/index.htm",
+      "source_url": "https://isc.bit.edu.cn/admissionsaid/spss/languageulture/index.htm",
+      "added_at": "2025-08-13T20:43:23.358904",
+      "id": "isc.bit.edu.cn_Frontiers of Materials Science for Renewable Energy_39"
+    },
+    {
+      "university": "isc.bit.edu.cn",
+      "name": "Artificial Intelligence Summer Program",
+      "description": "An academic exchange and practical innovation program focusing on artificial intelligence, including visits to the Integrated Circuits Center and well-known Chinese enterprises to understand AI technology applications.",
+      "eligibility": "Non-Chinese citizens with English proficiency (IELTS≥ 6.0 or TOEFL≥ 85 or equivalent)",
+      "duration": "4 weeks, July 6 - August 2, 2025",
+      "pricing": "CNY 6000",
+      "link": "https://isc.bit.edu.cn/admissionsaid/spss/languageulture/index.htm",
+      "source_url": "https://isc.bit.edu.cn/admissionsaid/spss/languageulture/index.htm",
+      "added_at": "2025-08-13T20:43:23.358904",
+      "id": "isc.bit.edu.cn_Artificial Intelligence Summer Program_40"
+    },
+    {
+      "university": "studyathit.hit.edu.cn",
+      "name": "Artificial Intelligence: Leading the Frontier",
+      "description": "This program focuses on the latest advancements in artificial intelligence, including machine learning, deep learning, natural language processing, and computer vision.",
+      "eligibility": "Open to undergraduate, Master, and PhD students with a fluency in English and an interest in AI.",
+      "duration": "Varies by theme, check program details for specific dates",
+      "pricing": "Free",
+      "link": "https://studyathit.hit.edu.cn/GlobalSummerSchoolwHITGSSw/list.htm",
+      "source_url": "https://studyathit.hit.edu.cn/GlobalSummerSchoolwHITGSSw/list.htm",
+      "added_at": "2025-08-16T15:27:12.244370",
+      "id": "studyathit.hit.edu.cn_Artificial Intelligence: Leading the Frontier_41"
+    },
+    {
+      "university": "studyathit.hit.edu.cn",
+      "name": "Computer Science Empowering Health",
+      "description": "This program explores the intersection of computer science and healthcare, covering topics such as health informatics, medical imaging, and bioinformatics.",
+      "eligibility": "Open to undergraduate, Master, and PhD students with a fluency in English and an interest in healthcare technology.",
+      "duration": "Varies by theme, check program details for specific dates",
+      "pricing": "Free",
+      "link": "https://studyathit.hit.edu.cn/GlobalSummerSchoolwHITGSSw/list.htm",
+      "source_url": "https://studyathit.hit.edu.cn/GlobalSummerSchoolwHITGSSw/list.htm",
+      "added_at": "2025-08-16T15:27:12.244370",
+      "id": "studyathit.hit.edu.cn_Computer Science Empowering Health_42"
+    }
+  ],
+  "universities": [
+    {
+      "name": "www.bu.edu",
+      "url": "https://www.bu.edu/summer/courses/computer-science/",
+      "scraped_at": "2025-08-13T04:47:18.104251",
+      "programs_count": 5
+    },
+    {
+      "name": "www.cmu.edu",
+      "url": "https://www.cmu.edu/pre-college/academic-programs/ai_scholars.html",
+      "scraped_at": "2025-08-13T04:47:50.742932",
+      "programs_count": 1
+    },
+    {
+      "name": "summer.champlain.edu",
+      "url": "https://summer.champlain.edu/programs/cybersecurity-digital-forensics/",
+      "scraped_at": "2025-08-13T04:48:16.072712",
+      "programs_count": 1
+    },
+    {
+      "name": "summer.georgetown.edu",
+      "url": "https://summer.georgetown.edu/programs/SHS31/artificial-intelligence-academy/",
+      "scraped_at": "2025-08-13T04:53:07.889590",
+      "programs_count": 1
+    },
+    {
+      "name": "summer.harvard.edu",
+      "url": "https://summer.harvard.edu/high-school-programs/secondary-school-program/",
+      "scraped_at": "2025-08-13T04:53:20.848046",
+      "programs_count": 1
+    },
+    {
+      "name": "cty.jhu.edu",
+      "url": "https://cty.jhu.edu/programs/on-campus/topics/computer-science-and-technology",
+      "scraped_at": "2025-08-13T04:54:27.116862",
+      "programs_count": 2
+    },
+    {
+      "name": "k12stem.engineering.nyu.edu",
+      "url": "https://k12stem.engineering.nyu.edu/programs",
+      "scraped_at": "2025-08-13T04:55:39.658550",
+      "programs_count": 11
+    },
+    {
+      "name": "summerinstitutes.spcs.stanford.edu",
+      "url": "https://summerinstitutes.spcs.stanford.edu/courses/2025/artificial-intelligence",
+      "scraped_at": "2025-08-13T04:56:32.143111",
+      "programs_count": 1
+    },
+    {
+      "name": "cse.umn.edu",
+      "url": "https://cse.umn.edu/cs/summer-programs",
+      "scraped_at": "2025-08-13T04:57:15.954853",
+      "programs_count": 2
+    },
+    {
+      "name": "academics.seas.upenn.edu",
+      "url": "https://academics.seas.upenn.edu/k-12-programs/",
+      "scraped_at": "2025-08-13T04:57:42.780305",
+      "programs_count": 1
+    },
+    {
+      "name": "www.sandiego.edu",
+      "url": "https://www.sandiego.edu/engineering/centers/ccset/youth-programs.php",
+      "scraped_at": "2025-08-13T04:57:57.823815",
+      "programs_count": 1
+    },
+    {
+      "name": "www.ut.edu",
+      "url": "https://www.ut.edu/academics/sykes-college-of-business/information-and-technology-management-itm-degrees/cyberspartans-summer-camp",
+      "scraped_at": "2025-08-13T04:58:17.201780",
+      "programs_count": 1
+    },
+    {
+      "name": "www.vanderbilt.edu",
+      "url": "https://www.vanderbilt.edu/datascience/ai-summer/",
+      "scraped_at": "2025-08-13T05:00:48.994282",
+      "programs_count": 2
+    },
+    {
+      "name": "www.pace.cam.ac.uk",
+      "url": "https://www.pace.cam.ac.uk/course-type/international-summer-programme",
+      "scraped_at": "2025-08-13T05:02:06.258246",
+      "programs_count": 1
+    },
+    {
+      "name": "www.imperial.ac.uk",
+      "url": "https://www.imperial.ac.uk/continuing-professional-development/short-courses/summer-schools/summerschool/",
+      "scraped_at": "2025-08-13T05:05:20.078727",
+      "programs_count": 1
+    },
+    {
+      "name": "www.ucl.ac.uk",
+      "url": "https://www.ucl.ac.uk/engineering/computer-science/collaborate/schools-outreach/ucl-computer-science-summer-school",
+      "scraped_at": "2025-08-13T05:06:54.135599",
+      "programs_count": 1
+    },
+    {
+      "name": "bse.eu",
+      "url": "https://bse.eu/summer-school/data-science",
+      "scraped_at": "2025-08-13T05:52:02.242924",
+      "programs_count": 1
+    },
+    {
+      "name": "www.hec.edu",
+      "url": "https://www.hec.edu/en/summer-school/summer-programs/data-science-and-ai",
+      "scraped_at": "2025-08-13T17:49:27.939084",
+      "programs_count": 1
+    },
+    {
+      "name": "www.unibe.ch",
+      "url": "https://www.unibe.ch/studies/programs/summer___winter_schools/index_eng.html",
+      "scraped_at": "2025-08-13T17:59:53.300146",
+      "programs_count": 3
+    },
+    {
+      "name": "isc.bit.edu.cn",
+      "url": "https://isc.bit.edu.cn/admissionsaid/spss/languageulture/index.htm",
+      "scraped_at": "2025-08-13T20:43:23.358904",
+      "programs_count": 3
+    },
+    {
+      "name": "studyathit.hit.edu.cn",
+      "url": "https://studyathit.hit.edu.cn/GlobalSummerSchoolwHITGSSw/list.htm",
+      "scraped_at": "2025-08-16T15:27:12.244370",
+      "programs_count": 2
+    }
+  ],
+  "last_updated": "2025-08-16T15:27:12.244370",
+  "total_programs": 43
+}
