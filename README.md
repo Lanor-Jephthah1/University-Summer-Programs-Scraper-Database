@@ -1,4 +1,4 @@
-# University-Summer-Programs-Scraper-Database# University Summer Programs Scraper & Database
+# University Summer Programs Scraper & Database
 
 A web application that automatically scrapes university websites to find and extract information about computer science and programming summer programs, then stores them in a searchable database.
 
